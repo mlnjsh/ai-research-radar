@@ -133,13 +133,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-The weekly digest will appear here after the first week of operation. It includes:
-- Top 10 most impactful papers
-- Emerging research trends
-- Notable author contributions
-- Cross-domain connections
+**Week of 2026-03-02** | 200 papers scanned
 
-**[📁 View all weekly digests →](archive/)**
+1. [Agentic AI for Scalable and Robust Optical Systems Control](https://arxiv.org/abs/2602.20144v1)
+2. [UDVideoQA: A Traffic Video Question Answering Dataset for Multi-Object Spatio-Temporal Reasoning in Urban Dynamics](https://arxiv.org/abs/2602.21137v1)
+3. [SparkMe: Adaptive Semi-Structured Interviewing for Qualitative Insight Discovery](https://arxiv.org/abs/2602.21136v1)
+4. [SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents](https://arxiv.org/abs/2602.22124v1)
+5. [Evaluating Stochasticity in Deep Research Agents](https://arxiv.org/abs/2602.23271v1)
+
+**[View full digest and archives](archive/week-2026-03-02.md)**
 
 <!-- DIGEST_END -->
 
