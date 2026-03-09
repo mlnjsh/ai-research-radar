@@ -134,15 +134,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-03-02** | 200 papers scanned
+**Week of 2026-03-09** | 200 papers scanned
 
-1. [Agentic AI for Scalable and Robust Optical Systems Control](https://arxiv.org/abs/2602.20144v1)
-2. [UDVideoQA: A Traffic Video Question Answering Dataset for Multi-Object Spatio-Temporal Reasoning in Urban Dynamics](https://arxiv.org/abs/2602.21137v1)
-3. [SparkMe: Adaptive Semi-Structured Interviewing for Qualitative Insight Discovery](https://arxiv.org/abs/2602.21136v1)
-4. [SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents](https://arxiv.org/abs/2602.22124v1)
-5. [Evaluating Stochasticity in Deep Research Agents](https://arxiv.org/abs/2602.23271v1)
+1. [Saarthi for AGI: Towards Domain-Specific General Intelligence for Formal Verification](https://arxiv.org/abs/2603.03175v1)
+2. [Topology of Multi-species Localization](https://arxiv.org/abs/2603.03237v1)
+3. [Scaling Retrieval Augmented Generation with RAG Fusion: Lessons from an Industry Deployment](https://arxiv.org/abs/2603.02153v1)
+4. [NeuroSkill(tm): Proactive Real-Time Agentic System Capable of Modeling Human State of Mind](https://arxiv.org/abs/2603.03212v1)
+5. [Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)
 
-**[View full digest and archives](archive/week-2026-03-02.md)**
+**[View full digest and archives](archive/week-2026-03-09.md)**
 
 <!-- DIGEST_END -->
 
