@@ -157,15 +157,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-03-09** | 200 papers scanned
+**Week of 2026-03-16** | 291 papers scanned
 
-1. [Saarthi for AGI: Towards Domain-Specific General Intelligence for Formal Verification](https://arxiv.org/abs/2603.03175v1)
-2. [Topology of Multi-species Localization](https://arxiv.org/abs/2603.03237v1)
-3. [Scaling Retrieval Augmented Generation with RAG Fusion: Lessons from an Industry Deployment](https://arxiv.org/abs/2603.02153v1)
-4. [NeuroSkill(tm): Proactive Real-Time Agentic System Capable of Modeling Human State of Mind](https://arxiv.org/abs/2603.03212v1)
-5. [Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)
+1. [Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)
+2. [RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback](https://arxiv.org/abs/2603.08561v1)
+3. [MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems](https://arxiv.org/abs/2603.09909v1)
+4. [Overview of the TREC 2025 Retrieval Augmented Generation (RAG) Track](https://arxiv.org/abs/2603.09891v1)
+5. [The Bureaucracy of Speed: Structural Equivalence Between Memory Consistency Models and Multi-Agent Authorization Revocation](https://arxiv.org/abs/2603.09875v1)
 
-**[View full digest and archives](archive/week-2026-03-09.md)**
+**[View full digest and archives](archive/week-2026-03-16.md)**
 
 <!-- DIGEST_END -->
 
