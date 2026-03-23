@@ -159,15 +159,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-03-16** | 291 papers scanned
+**Week of 2026-03-23** | 350 papers scanned
 
-1. [Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)
-2. [RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback](https://arxiv.org/abs/2603.08561v1)
-3. [MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems](https://arxiv.org/abs/2603.09909v1)
-4. [Overview of the TREC 2025 Retrieval Augmented Generation (RAG) Track](https://arxiv.org/abs/2603.09891v1)
-5. [The Bureaucracy of Speed: Structural Equivalence Between Memory Consistency Models and Multi-Agent Authorization Revocation](https://arxiv.org/abs/2603.09875v1)
+1. [Learning to Present: Inverse Specification Rewards for Agentic Slide Generation](https://arxiv.org/abs/2603.16839v1)
+2. [Mamba-3: Improved Sequence Modeling using State Space Principles](https://arxiv.org/abs/2603.15569v1)
+3. [RECOVER: Robust Entity Correction via agentic Orchestration of hypothesis Variants for Evidence-based Recovery](https://arxiv.org/abs/2603.16411v1)
+4. [Fanar 2.0: Arabic Generative AI Stack](https://arxiv.org/abs/2603.16397v1)
+5. [Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare](https://arxiv.org/abs/2603.17419v1)
 
-**[View full digest and archives](archive/week-2026-03-16.md)**
+**[View full digest and archives](archive/week-2026-03-23.md)**
 
 <!-- DIGEST_END -->
 
