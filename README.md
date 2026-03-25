@@ -351,3 +351,34 @@ Weekly Digests:     (auto-generated Mondays)
 [![Star History](https://api.star-history.com/svg?repos=mlnjsh/ai-research-radar&type=Date)](https://star-history.com/#mlnjsh/ai-research-radar&Date)
 
 </div>
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/karpathy">
+        <img src="https://github.com/karpathy.png" width="80px;" alt="Andrej Karpathy"/><br />
+        <sub><b>Andrej Karpathy</b></sub>
+      </a><br />
+      <sub>Former Tesla AI Director, GPT researcher</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/paperswithcode">
+        <img src="https://github.com/paperswithcode.png" width="80px;" alt="Papers With Code"/><br />
+        <sub><b>Papers With Code</b></sub>
+      </a><br />
+      <sub>ML research benchmark platform</sub>
+    </td>
+  </tr>
+</table>
