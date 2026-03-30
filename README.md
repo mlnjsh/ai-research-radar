@@ -155,15 +155,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-03-23** | 350 papers scanned
+**Week of 2026-03-30** | 350 papers scanned
 
-1. [Learning to Present: Inverse Specification Rewards for Agentic Slide Generation](https://arxiv.org/abs/2603.16839v1)
-2. [Mamba-3: Improved Sequence Modeling using State Space Principles](https://arxiv.org/abs/2603.15569v1)
-3. [RECOVER: Robust Entity Correction via agentic Orchestration of hypothesis Variants for Evidence-based Recovery](https://arxiv.org/abs/2603.16411v1)
-4. [Fanar 2.0: Arabic Generative AI Stack](https://arxiv.org/abs/2603.16397v1)
-5. [Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare](https://arxiv.org/abs/2603.17419v1)
+1. [Chimera: Latency- and Performance-Aware Multi-agent Serving for Heterogeneous LLMs](https://arxiv.org/abs/2603.22206v1)
+2. [Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)
+3. [Revisiting Quantum Code Generation: Where Should Domain Knowledge Live?](https://arxiv.org/abs/2603.22184v1)
+4. [MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)
+5. [SpecXMaster Technical Report](https://arxiv.org/abs/2603.23101v1)
 
-**[View full digest and archives](archive/week-2026-03-23.md)**
+**[View full digest and archives](archive/week-2026-03-30.md)**
 
 <!-- DIGEST_END -->
 
