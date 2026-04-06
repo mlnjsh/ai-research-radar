@@ -162,15 +162,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-03-30** | 350 papers scanned
+**Week of 2026-04-06** | 344 papers scanned
 
-1. [Chimera: Latency- and Performance-Aware Multi-agent Serving for Heterogeneous LLMs](https://arxiv.org/abs/2603.22206v1)
-2. [Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)
-3. [Revisiting Quantum Code Generation: Where Should Domain Knowledge Live?](https://arxiv.org/abs/2603.22184v1)
-4. [MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)
-5. [SpecXMaster Technical Report](https://arxiv.org/abs/2603.23101v1)
+1. [CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing](https://arxiv.org/abs/2603.29755v1)
+2. [CutClaw: Agentic Hours-Long Video Editing via Music Synchronization](https://arxiv.org/abs/2603.29664v1)
+3. [Approximating Pareto Frontiers in Stochastic Multi-Objective Optimization via Hashing and Randomization](https://arxiv.org/abs/2604.01098v1)
+4. [6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management](https://arxiv.org/abs/2603.29656v1)
+5. [ASI-Evolve: AI Accelerates AI](https://arxiv.org/abs/2603.29640v1)
 
-**[View full digest and archives](archive/week-2026-03-30.md)**
+**[View full digest and archives](archive/week-2026-04-06.md)**
 
 <!-- DIGEST_END -->
 
