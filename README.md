@@ -155,15 +155,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-04-06** | 344 papers scanned
+**Week of 2026-04-13** | 336 papers scanned
 
-1. [CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing](https://arxiv.org/abs/2603.29755v1)
-2. [CutClaw: Agentic Hours-Long Video Editing via Music Synchronization](https://arxiv.org/abs/2603.29664v1)
-3. [Approximating Pareto Frontiers in Stochastic Multi-Objective Optimization via Hashing and Randomization](https://arxiv.org/abs/2604.01098v1)
-4. [6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management](https://arxiv.org/abs/2603.29656v1)
-5. [ASI-Evolve: AI Accelerates AI](https://arxiv.org/abs/2603.29640v1)
+1. [AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning](https://arxiv.org/abs/2604.05846v1)
+2. [Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models](https://arxiv.org/abs/2604.08545v1)
+3. [Rethinking Model Efficiency: Multi-Agent Inference with Large Models](https://arxiv.org/abs/2604.04929v1)
+4. [Agentic Federated Learning: The Future of Distributed Training Orchestration](https://arxiv.org/abs/2604.04895v1)
+5. [Synthetic Sandbox for Training Machine Learning Engineering Agents](https://arxiv.org/abs/2604.04872v1)
 
-**[View full digest and archives](archive/week-2026-04-06.md)**
+**[View full digest and archives](archive/week-2026-04-13.md)**
 
 <!-- DIGEST_END -->
 
