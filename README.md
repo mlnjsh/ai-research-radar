@@ -167,15 +167,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-04-13** | 336 papers scanned
+**Week of 2026-04-20** | 233 papers scanned
 
-1. [AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning](https://arxiv.org/abs/2604.05846v1)
-2. [Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models](https://arxiv.org/abs/2604.08545v1)
-3. [Rethinking Model Efficiency: Multi-Agent Inference with Large Models](https://arxiv.org/abs/2604.04929v1)
-4. [Agentic Federated Learning: The Future of Distributed Training Orchestration](https://arxiv.org/abs/2604.04895v1)
-5. [Synthetic Sandbox for Training Machine Learning Engineering Agents](https://arxiv.org/abs/2604.04872v1)
+1. [Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks](https://arxiv.org/abs/2604.11753v1)
+2. [Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games](https://arxiv.org/abs/2604.11741v1)
+3. [Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving](https://arxiv.org/abs/2604.11734v1)
+4. [The Devil is in the Details -- From OCR for Old Church Slavonic to Purely Visual Stemma Reconstruction](https://arxiv.org/abs/2604.11724v1)
+5. [Modeling Co-Pilots for Text-to-Model Translation](https://arxiv.org/abs/2604.12955v1)
 
-**[View full digest and archives](archive/week-2026-04-13.md)**
+**[View full digest and archives](archive/week-2026-04-20.md)**
 
 <!-- DIGEST_END -->
 
