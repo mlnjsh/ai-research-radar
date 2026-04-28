@@ -55,47 +55,49 @@ No manual curation needed. GitHub Actions fetches, summarizes, and categorizes n
 
 | # | Paper | Authors | Category | Date |
 |:-:|:------|:--------|:--------:|:----:|
-| 1 | [Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning](https://arxiv.org/abs/2604.21870v1) | Kaitlin Gili, Mainak Nistala, Kristen Wendell et al. | physics.ed-ph | 2026-04-23 |
-| 2 | [On the algebra of Koopman eigenfunctions and on some of their infinities](https://arxiv.org/abs/2604.21825v1) | Zahra Monfared, Saksham Malhotra, Sekiya Hajime et al. | math.DS | 2026-04-23 |
-| 3 | [Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability](https://arxiv.org/abs/2604.21930v1) | Nicolae Filat, Ahmed Hussain, Konstantinos Kalogiannis et al. | cs.LG | 2026-04-23 |
-| 4 | [Fine-Tuning Regimes Define Distinct Continual Learning Problems](https://arxiv.org/abs/2604.21927v1) | Paul-Tiberiu Iordache, Elena Burceanu | cs.LG | 2026-04-23 |
-| 5 | [The Sample Complexity of Multicalibration](https://arxiv.org/abs/2604.21923v1) | Natalie Collina, Jiuyao Lu, Georgy Noarov et al. | cs.LG | 2026-04-23 |
-| 6 | [Low-Rank Adaptation Redux for Large Models](https://arxiv.org/abs/2604.21905v1) | Bingcong Li, Yilang Zhang, Georgios B. Giannakis | cs.LG | 2026-04-23 |
-| 7 | [A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models](https://arxiv.org/abs/2604.21903v1) | Max Defez, Filippo Quarenghi, Mathieu Vrac et al. | cs.LG | 2026-04-23 |
-| 8 | [Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1) | Sherly Alfonso-Sánchez, Cristián Bravo, Kristina G. Stankova | stat.ML | 2026-04-23 |
-| 9 | [Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation](https://arxiv.org/abs/2604.21854v1) | Natan Levy, Gadi Perl | cs.AI | 2026-04-23 |
-| 10 | [Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions](https://arxiv.org/abs/2604.21849v1) | Di Wu, Ling Liang, Haizhao Yang | stat.ML | 2026-04-23 |
-| 11 | [Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference](https://arxiv.org/abs/2604.21843v1) | Li Chen, Xiaotong Shen, Wei Pan | stat.ME | 2026-04-23 |
-| 12 | [Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion](https://arxiv.org/abs/2604.21836v1) | Eghbal A. Hosseini, Brian Cheung, Evelina Fedorenko et al. | q-bio.NC | 2026-04-23 |
-| 13 | [GFlowState: Visualizing the Training of Generative Flow Networks Beyond the Reward](https://arxiv.org/abs/2604.21830v1) | Florian Holeczek, Andreas Hinterreiter, Alex Hernandez-Garcia et al. | cs.LG | 2026-04-23 |
-| 14 | [Alignment has a Fantasia Problem](https://arxiv.org/abs/2604.21827v1) | Nathanael Jo, Zoe De Simone, Mitchell Gordon et al. | cs.AI | 2026-04-23 |
-| 15 | [Probably Approximately Consensus: On the Learning Theory of Finding Common Ground](https://arxiv.org/abs/2604.21811v1) | Carter Blair, Ben Armstrong, Shiri Alouf-Heffetz et al. | cs.LG | 2026-04-23 |
+| 1 | [Scalable Hyperparameter-Divergent Ensemble Training with Automatic Learning Rate Exploration for Large Models](https://arxiv.org/abs/2604.24708v1) | Hailing Cheng, Tao Huang, Chen Zhu et al. | cs.LG | 2026-04-27 |
+| 2 | [Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components](https://arxiv.org/abs/2604.24758v1) | Griffin Pitts, Muntasir Hoq, Peter Brusilovsky et al. | cs.HC | 2026-04-27 |
+| 3 | [The Optimal Sample Complexity of Multiclass and List Learning](https://arxiv.org/abs/2604.24749v1) | Chirag Pabbaraju | cs.LG | 2026-04-27 |
+| 4 | [Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes](https://arxiv.org/abs/2604.24745v1) | Zhangyong Liang | cs.LG | 2026-04-27 |
+| 5 | [Learning to Think from Multiple Thinkers](https://arxiv.org/abs/2604.24737v1) | Nirmit Joshi, Roey Magen, Nathan Srebro et al. | cs.LG | 2026-04-27 |
+| 6 | [SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning](https://arxiv.org/abs/2604.24729v1) | Zijian Guo, İlker Işık, H. M. Sabbir Ahmad et al. | cs.LG | 2026-04-27 |
+| 7 | [Exploiting Differential Flatness for Efficient Learning-based Model Predictive Control of Constrained Multi-Input Control Affine Systems](https://arxiv.org/abs/2604.24706v1) | Tobias A. Farger, Adam W. Hall, Angela P. Schoellig | eess.SY | 2026-04-27 |
+| 8 | [Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1) | Max Kleinebrahm, Jonathan Berrisch, Philipp Eiser et al. | econ.EM | 2026-04-27 |
+| 9 | [Diffusion-Guided Feature Selection via Nishimori Temperature: Noise-Based Spectral Embedding](https://arxiv.org/abs/2604.24692v1) | Vasiliy S. Usatyuk, Denis A. Sapozhnikov, Sergey I. Egorov | cs.LG | 2026-04-27 |
+| 10 | [A Functorial Formulation of Neighborhood Aggregating Deep Learning](https://arxiv.org/abs/2604.24672v1) | Sun Woo Park, Yun Young Choi, U Jin Choi et al. | cs.LG | 2026-04-27 |
+| 11 | [Dual Control of Linear Systems from Bilinear Observations with Belief Space Model Predictive Control](https://arxiv.org/abs/2604.24663v1) | Daniel Cao, Beixi Du, Andrew Lowitt et al. | math.OC | 2026-04-27 |
+| 12 | [Instrumental Variable Analysis Without Structural Equations](https://arxiv.org/abs/2604.24660v1) | Zikai Shen, Dimitri Meunier, Houssam Zenati et al. | stat.ML | 2026-04-27 |
+| 13 | [The Last Human-Written Paper: Agent-Native Research Artifacts](https://arxiv.org/abs/2604.24658v1) | Jiachen Liu, Jiaxin Pei, Jintao Huang et al. | cs.LG | 2026-04-27 |
+| 14 | [Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks](https://arxiv.org/abs/2604.24637v1) | Kevin McKee, Thomas Hazy, Yicong Zheng et al. | cs.LG | 2026-04-27 |
+| 15 | [Computational Design and Experimental Validation of Photoactive PARP1 Inhibitors](https://arxiv.org/abs/2604.24634v1) | Simon Axelrod, Miroslav Kašpar, Kristýna Jelínková et al. | physics.chem-ph | 2026-04-27 |
 
 ### 📐 Topological Data Analysis
 
 | # | Paper | Authors | Category | Date |
 |:-:|:------|:--------|:--------:|:----:|
-| 1 | [One-dimensional non-Hausdorff manifolds and CW complexes](https://arxiv.org/abs/2604.21868v1) | Igor Vlasenko, Sergiy Maksymenko | math.GT | 2026-04-23 |
+| 1 | [Homology-based Morphometry of Brain Atrophy: Methods and Applications](https://arxiv.org/abs/2604.24714v1) | Donato Quiccione, Mariam Pirashvili, Nathan Broomhead et al. | math.AT | 2026-04-27 |
+| 2 | [Calculating the second rational cohomology group of the Torelli group](https://arxiv.org/abs/2604.24733v1) | Andrew Putman | math.GT | 2026-04-27 |
+| 3 | [A rational model for the fiberwise THH transfer II: $A_\infty$-algebras](https://arxiv.org/abs/2604.24709v1) | Florian Naef, Robin Stoll | math.AT | 2026-04-27 |
 
 ### 🤖 LLMs & Agents
 
 | # | Paper | Authors | Category | Date |
 |:-:|:------|:--------|:--------:|:----:|
-| 1 | [From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation](https://arxiv.org/abs/2604.21910v1) | Bartosz Balis, Michal Orzechowski, Piotr Kica et al. | cs.AI | 2026-04-23 |
-| 2 | [Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models](https://arxiv.org/abs/2604.21896v1) | Chee Wei Tan, Yuchen Wang, Shangxin Guo | cs.AI | 2026-04-23 |
-| 3 | [Task-Driven Co-Design of Heterogeneous Multi-Robot Systems](https://arxiv.org/abs/2604.21894v1) | Maximilian Stralz, Meshal Alharbi, Yujun Huang et al. | cs.RO | 2026-04-23 |
-| 4 | [EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents](https://arxiv.org/abs/2604.21890v1) | Praval Sharma, Ashok Samal, Leen-Kiat Soh et al. | cs.CL | 2026-04-23 |
-| 5 | [Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models](https://arxiv.org/abs/2604.21860v1) | Naheed Rayhan, Sohely Jahan | cs.CR | 2026-04-23 |
-| 6 | [Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows](https://arxiv.org/abs/2604.21816v1) | Anuj Sadani, Deepak Kumar | cs.AI | 2026-04-23 |
-| 7 | [Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems](https://arxiv.org/abs/2604.21794v1) | Ye Yu, Heming Liu, Haibo Jin et al. | cs.AI | 2026-04-23 |
-| 8 | [Evaluation of Automatic Speech Recognition Using Generative Large Language Models](https://arxiv.org/abs/2604.21928v1) | Thibault Bañeras-Roux, Shashi Kumar, Driss Khalil et al. | cs.CL | 2026-04-23 |
-| 9 | [MathDuels: Evaluating LLMs as Problem Posers and Solvers](https://arxiv.org/abs/2604.21916v1) | Zhiqiu Xu, Shibo Jin, Shreya Arya et al. | cs.CL | 2026-04-23 |
-| 10 | [GiVA: Gradient-Informed Bases for Vector-Based Adaptation](https://arxiv.org/abs/2604.21901v1) | Neeraj Gangwar, Rishabh Deshmukh, Michael Shavlovsky et al. | cs.CL | 2026-04-23 |
-| 11 | [Mapping the Political Discourse in the Brazilian Chamber of Deputies: A Multi-Faceted Computational Approach](https://arxiv.org/abs/2604.21897v1) | Flávio Soriano, Victoria F. Mello, Pedro B. Rigueira et al. | cs.CL | 2026-04-23 |
-| 12 | [TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale](https://arxiv.org/abs/2604.21889v1) | Jun Wang, Ziyin Zhang, Rui Wang et al. | cs.CL | 2026-04-23 |
-| 13 | [A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents](https://arxiv.org/abs/2604.21885v1) | Praval Sharma | cs.CL | 2026-04-23 |
-| 14 | [Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms](https://arxiv.org/abs/2604.21882v1) | Yuto Nishida, Naoki Shikoda, Yosuke Kishinami et al. | cs.CL | 2026-04-23 |
-| 15 | [Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions](https://arxiv.org/abs/2604.21871v1) | Jiseon Kim, Jea Kwon, Luiz Felipe Vecchietti et al. | cs.CL | 2026-04-23 |
+| 1 | [Green Shielding: A User-Centric Approach Towards Trustworthy AI](https://arxiv.org/abs/2604.24700v1) | Aaron J. Li, Nicolas Sanchez, Hao Huang et al. | cs.CL | 2026-04-27 |
+| 2 | [The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models](https://arxiv.org/abs/2604.24698v1) | Yunze Xiao, Vivienne J. Zhang, Chenghao Yang et al. | cs.CL | 2026-04-27 |
+| 3 | [NeuroClaw Technical Report](https://arxiv.org/abs/2604.24696v1) | Cheng Wang, Zhibin He, Zhihao Peng et al. | cs.CV | 2026-04-27 |
+| 4 | [Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters](https://arxiv.org/abs/2604.24710v1) | Aaryan Shah, Andrew Hines, Alexia Downs et al. | cs.AI | 2026-04-27 |
+| 5 | [Governing What You Cannot Observe: Adaptive Runtime Governance for Autonomous AI Agents](https://arxiv.org/abs/2604.24686v1) | German Marin, Jatin Chaudhary | cs.AI | 2026-04-27 |
+| 6 | [Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1) | Sivajeet Chand, Kevin Nguyen, Peter Kuntz et al. | cs.SE | 2026-04-27 |
+| 7 | [The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications](https://arxiv.org/abs/2604.24668v1) | Zhenyu Zhao, Aparna Balagopalan, Adi Agrawal et al. | cs.AI | 2026-04-27 |
+| 8 | [Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1) | William Oliveira | cs.SE | 2026-04-27 |
+| 9 | [XGRAG: A Graph-Native Framework for Explaining KG-based Retrieval-Augmented Generation](https://arxiv.org/abs/2604.24623v1) | Zhuoling Li, Ha Linh Hong Tran Nguyen, Valeria Bladinieres et al. | cs.AI | 2026-04-27 |
+| 10 | [Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking](https://arxiv.org/abs/2604.24720v1) | Hermawan Manurung, Ibrahim Al-Kahfi, Ahmad Rizqi et al. | cs.CL | 2026-04-27 |
+| 11 | [Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling](https://arxiv.org/abs/2604.24717v1) | Hailing Cheng, Daqi Sun, Xinyu Lu | cs.AI | 2026-04-27 |
+| 12 | [Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling](https://arxiv.org/abs/2604.24715v1) | Parsa Ashrafi Fashi, Utkarsh Saxena, Mehdi Rezagholizadeh et al. | cs.CL | 2026-04-27 |
+| 13 | [Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1) | Amal Akli, Mike Papadakis, Maxime Cordy et al. | cs.SE | 2026-04-27 |
+| 14 | [Can Current Agents Close the Discovery-to-Application Gap? A Case Study in Minecraft](https://arxiv.org/abs/2604.24697v1) | Zhou Ziheng, Huacong Tang, Jinyuan Zhang et al. | cs.AI | 2026-04-27 |
+| 15 | [Contextual Linear Activation Steering of Language Models](https://arxiv.org/abs/2604.24693v1) | Brandon Hsu, Daniel Beaglehole, Adityanarayanan Radhakrishnan et al. | cs.CL | 2026-04-27 |
 
 ### ⚙️ Optimization & Engineering
 
@@ -107,26 +109,23 @@ No manual curation needed. GitHub Actions fetches, summarizes, and categorizes n
 
 | # | Paper | Authors | Category | Date |
 |:-:|:------|:--------|:--------:|:----:|
-| 1 | [A Multi-Stage Warm-Start Deep Learning Framework for Unit Commitment](https://arxiv.org/abs/2604.21891v1) | Muhy Eddin Za'ter, Anna Van Boven, Bri-Mathias Hodge et al. | eess.SY | 2026-04-23 |
-| 2 | [Replay-buffer engineering for noise-robust quantum circuit optimization](https://arxiv.org/abs/2604.21863v1) | Akash Kundu, Sebastian Feld | quant-ph | 2026-04-23 |
+| 1 | *No new papers in this category* | --- | --- | --- |
 
 ### 👁️ Computer Vision
 
 | # | Paper | Authors | Category | Date |
 |:-:|:------|:--------|:--------:|:----:|
-| 1 | [When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](https://arxiv.org/abs/2604.21911v1) | Pegah Khayatan, Jayneel Parekh, Arnaud Dapogny et al. | cs.CV | 2026-04-23 |
-| 2 | [Addressing Image Authenticity When Cameras Use Generative AI](https://arxiv.org/abs/2604.21879v1) | Umar Masud, Abhijith Punnappurath, Luxi Zhao et al. | cs.CV | 2026-04-23 |
-| 3 | [Multiscale Super Resolution without Image Priors](https://arxiv.org/abs/2604.21810v1) | Daniel Fu, Gabby Litterio, Pedro Felzenszwalb et al. | cs.CV | 2026-04-23 |
-| 4 | [TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval](https://arxiv.org/abs/2604.21806v1) | Zixu Li, Yupeng Hu, Zhiheng Fu et al. | cs.CV | 2026-04-23 |
-| 5 | [Seeing Fast and Slow: Learning the Flow of Time in Videos](https://arxiv.org/abs/2604.21931v1) | Yen-Siang Wu, Rundong Luo, Jingsen Zhu et al. | cs.CV | 2026-04-23 |
-| 6 | [Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs](https://arxiv.org/abs/2604.21926v1) | Hao-Yu Hsu, Tianhang Cheng, Jing Wen et al. | cs.CV | 2026-04-23 |
-| 7 | [Context Unrolling in Omni Models](https://arxiv.org/abs/2604.21921v1) | Ceyuan Yang, Zhijie Lin, Yang Zhao et al. | cs.CV | 2026-04-23 |
-| 8 | [Vista4D: Video Reshooting with 4D Point Clouds](https://arxiv.org/abs/2604.21915v1) | Kuan Heng Lin, Zhizheng Liu, Pablo Salamanca et al. | cs.CV | 2026-04-23 |
-| 9 | [Directional Confusions Reveal Divergent Inductive Biases Through Rate-Distortion Geometry in Human and Machine Vision](https://arxiv.org/abs/2604.21909v1) | Leyla Roksan Caglar, Pedro A. M. Mediano, Baihan Lin | cs.CV | 2026-04-23 |
-| 10 | [UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection](https://arxiv.org/abs/2604.21904v1) | Yanran Zhang, Wenzhao Zheng, Yifei Li et al. | cs.CV | 2026-04-23 |
-| 11 | [Grounding Video Reasoning in Physical Signals](https://arxiv.org/abs/2604.21873v1) | Alibay Osmanli, Zixu Cheng, Shaogang Gong | cs.CV | 2026-04-23 |
-| 12 | [Divide-then-Diagnose: Weaving Clinician-Inspired Contexts for Ultra-Long Capsule Endoscopy Videos](https://arxiv.org/abs/2604.21814v1) | Bowen Liu, Li Yang, Shanshan Song et al. | cs.CV | 2026-04-23 |
-| 13 | [SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery](https://arxiv.org/abs/2604.21801v1) | Safouane El Ghazouali, Nicola Venturi, Michael Rueegsegger et al. | cs.CV | 2026-04-23 |
+| 1 | [WildLIFT: Lifting monocular drone video to 3D for species-agnostic wildlife monitoring](https://arxiv.org/abs/2604.24718v1) | Vandita Shukla, Fabio Remondino, Blair Costelloe et al. | cs.CV | 2026-04-27 |
+| 2 | [Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction](https://arxiv.org/abs/2604.24679v1) | Fredrik K. Gustafsson, Constance Boissin, Johan Vallon-Christersson et al. | cs.CV | 2026-04-27 |
+| 3 | [Probing CLIP's Comprehension of 360-Degree Textual and Visual Semantics](https://arxiv.org/abs/2604.24642v1) | Hai Wang, Xiaochen Yang, Mingzhi Dong et al. | cs.CV | 2026-04-27 |
+| 4 | [Meta-CoT: Enhancing Granularity and Generalization in Image Editing](https://arxiv.org/abs/2604.24625v1) | Shiyi Zhang, Yiji Cheng, Tiankai Hang et al. | cs.CV | 2026-04-27 |
+| 5 | [CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies](https://arxiv.org/abs/2604.24622v1) | Fan Du, Feng Yan, Jianxiong Wu et al. | cs.CV | 2026-04-27 |
+| 6 | [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://arxiv.org/abs/2604.24764v1) | Weijie Wang, Xiaoxuan He, Youping Gu et al. | cs.CV | 2026-04-27 |
+| 7 | [Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](https://arxiv.org/abs/2604.24763v1) | Zhiheng Liu, Weiming Ren, Xiaoke Huang et al. | cs.CV | 2026-04-27 |
+| 8 | [OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer](https://arxiv.org/abs/2604.24762v1) | Boyang Wang, Guangyi Xu, Zhipeng Tang et al. | cs.CV | 2026-04-27 |
+| 9 | [DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation](https://arxiv.org/abs/2604.24719v1) | Tal Grossman, Noa Cahan, Lev Ayzenberg et al. | cs.CV | 2026-04-27 |
+| 10 | [Aycromo: An Open-Source Platform for Automatic Chromosome Detection in Metaphase Images Based on Deep Learning](https://arxiv.org/abs/2604.24685v1) | Jorge L. A. Lima, Filipe R. Cordeiro | cs.CV | 2026-04-27 |
+| 11 | [Information bottleneck for learning the phase space of dynamics from high-dimensional experimental data](https://arxiv.org/abs/2604.24662v1) | K. Michael Martini, Eslam Abdelaleem, Paarth Gulati et al. | physics.data-an | 2026-04-27 |
 
 
 <!-- PAPERS_END -->
@@ -146,6 +145,10 @@ TRENDING TOPICS (Last 24 Hours)
   ████████████ RAG (12)
   ███ agentic (3)
   ██ multi-agent (2)
+  █ topological data analysis (1)
+  █ persistent homology (1)
+  █ Pareto (1)
+  █ feature extraction (1)
 
   Total papers scanned: 50
 ```
@@ -314,10 +317,10 @@ ai-research-radar/
 <!-- STATS_START -->
 
 ```
-Papers Scanned:     4251
+Papers Scanned:     4301
 Categories:         6
-Unique Authors:     246
-Trending Topics:    3
+Unique Authors:     308
+Trending Topics:    7
 Weekly Digests:     (auto-generated Mondays)
 ```
 
