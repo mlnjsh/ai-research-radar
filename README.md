@@ -161,15 +161,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-04-27** | 300 papers scanned
+**Week of 2026-05-04** | 200 papers scanned
 
-1. [SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy](https://arxiv.org/abs/2604.18557v1)
-2. [MASS-RAG: Multi-Agent Synthesis Retrieval-Augmented Generation](https://arxiv.org/abs/2604.18509v1)
-3. [QRAFTI: An Agentic Framework for Empirical Research in Quantitative Finance](https://arxiv.org/abs/2604.18500v1)
-4. [Barrier-enforced multi-objective optimization for direct point and sharp interval forecasting](https://arxiv.org/abs/2604.18492v1)
-5. [M$^{2}$GRPO: Mamba-based Multi-Agent Group Relative Policy Optimization for Biomimetic Underwater Robots Pursuit](https://arxiv.org/abs/2604.19404v1)
+1. [Green Shielding: A User-Centric Approach Towards Trustworthy AI](https://arxiv.org/abs/2604.24700v1)
+2. [Homology-based Morphometry of Brain Atrophy: Methods and Applications](https://arxiv.org/abs/2604.24714v1)
+3. [The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models](https://arxiv.org/abs/2604.24698v1)
+4. [NeuroClaw Technical Report](https://arxiv.org/abs/2604.24696v1)
+5. [Recursive Multi-Agent Systems](https://arxiv.org/abs/2604.25917v1)
 
-**[View full digest and archives](archive/week-2026-04-27.md)**
+**[View full digest and archives](archive/week-2026-05-04.md)**
 
 <!-- DIGEST_END -->
 
