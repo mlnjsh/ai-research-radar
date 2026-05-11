@@ -160,15 +160,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-05-04** | 200 papers scanned
+**Week of 2026-05-11** | 214 papers scanned
 
-1. [Green Shielding: A User-Centric Approach Towards Trustworthy AI](https://arxiv.org/abs/2604.24700v1)
-2. [Homology-based Morphometry of Brain Atrophy: Methods and Applications](https://arxiv.org/abs/2604.24714v1)
-3. [The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models](https://arxiv.org/abs/2604.24698v1)
-4. [NeuroClaw Technical Report](https://arxiv.org/abs/2604.24696v1)
-5. [Recursive Multi-Agent Systems](https://arxiv.org/abs/2604.25917v1)
+1. [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](https://arxiv.org/abs/2605.02801v1)
+2. [Static Analysis of Recursive SHACL](https://arxiv.org/abs/2605.02787v1)
+3. [Contextual Multi-Objective Optimization: Rethinking Objectives in Frontier AI Systems](https://arxiv.org/abs/2605.03900v1)
+4. [Audio-Visual Intelligence in Large Foundation Models](https://arxiv.org/abs/2605.04045v1)
+5. [Safety and accuracy follow different scaling laws in clinical large language models](https://arxiv.org/abs/2605.04039v1)
 
-**[View full digest and archives](archive/week-2026-05-04.md)**
+**[View full digest and archives](archive/week-2026-05-11.md)**
 
 <!-- DIGEST_END -->
 
