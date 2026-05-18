@@ -162,15 +162,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-05-11** | 214 papers scanned
+**Week of 2026-05-18** | 200 papers scanned
 
-1. [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](https://arxiv.org/abs/2605.02801v1)
-2. [Static Analysis of Recursive SHACL](https://arxiv.org/abs/2605.02787v1)
-3. [Contextual Multi-Objective Optimization: Rethinking Objectives in Frontier AI Systems](https://arxiv.org/abs/2605.03900v1)
-4. [Audio-Visual Intelligence in Large Foundation Models](https://arxiv.org/abs/2605.04045v1)
-5. [Safety and accuracy follow different scaling laws in clinical large language models](https://arxiv.org/abs/2605.04039v1)
+1. [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://arxiv.org/abs/2605.12481v1)
+2. [Personal Visual Context Learning in Large Multimodal Models](https://arxiv.org/abs/2605.10936v1)
+3. [Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning](https://arxiv.org/abs/2605.10923v1)
+4. [Compute Where it Counts: Self Optimizing Language Models](https://arxiv.org/abs/2605.10875v1)
+5. [SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)
 
-**[View full digest and archives](archive/week-2026-05-11.md)**
+**[View full digest and archives](archive/week-2026-05-18.md)**
 
 <!-- DIGEST_END -->
 
