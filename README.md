@@ -157,15 +157,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-05-18** | 200 papers scanned
+**Week of 2026-05-25** | 200 papers scanned
 
-1. [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://arxiv.org/abs/2605.12481v1)
-2. [Personal Visual Context Learning in Large Multimodal Models](https://arxiv.org/abs/2605.10936v1)
-3. [Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning](https://arxiv.org/abs/2605.10923v1)
-4. [Compute Where it Counts: Self Optimizing Language Models](https://arxiv.org/abs/2605.10875v1)
-5. [SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)
+1. [Code as Agent Harness](https://arxiv.org/abs/2605.18747v1)
+2. [Evidence-Grounded Frontier Mapping and Agentic Hypothesis Generation in Nanomedicine](https://arxiv.org/abs/2605.18144v1)
+3. [DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention](https://arxiv.org/abs/2605.18753v1)
+4. [Aurora: Unified Video Editing with a Tool-Using Agent](https://arxiv.org/abs/2605.18748v1)
+5. [Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation](https://arxiv.org/abs/2605.18740v1)
 
-**[View full digest and archives](archive/week-2026-05-18.md)**
+**[View full digest and archives](archive/week-2026-05-25.md)**
 
 <!-- DIGEST_END -->
 
