@@ -159,15 +159,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-05-25** | 200 papers scanned
+**Week of 2026-06-01** | 150 papers scanned
 
-1. [Code as Agent Harness](https://arxiv.org/abs/2605.18747v1)
-2. [Evidence-Grounded Frontier Mapping and Agentic Hypothesis Generation in Nanomedicine](https://arxiv.org/abs/2605.18144v1)
-3. [DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention](https://arxiv.org/abs/2605.18753v1)
-4. [Aurora: Unified Video Editing with a Tool-Using Agent](https://arxiv.org/abs/2605.18748v1)
-5. [Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation](https://arxiv.org/abs/2605.18740v1)
+1. [Extrapolative Weight Averaging Reveals Correctness-Efficiency Frontiers in Code RL](https://arxiv.org/abs/2605.28751v1)
+2. [Agent Explorative Policy Optimization for Multimodal Agentic Reasoning](https://arxiv.org/abs/2605.28774v1)
+3. [From Model Scaling to System Scaling: Scaling the Harness in Agentic AI](https://arxiv.org/abs/2605.26112v1)
+4. [Automated Benchmark Auditing for AI Agents and Large Language Models](https://arxiv.org/abs/2605.26079v1)
+5. [STORM: Internalized Modeling for Spatial-Temporal Reasoning in Video-Language Models](https://arxiv.org/abs/2605.26014v1)
 
-**[View full digest and archives](archive/week-2026-05-25.md)**
+**[View full digest and archives](archive/week-2026-06-01.md)**
 
 <!-- DIGEST_END -->
 
