@@ -151,15 +151,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-06-01** | 150 papers scanned
+**Week of 2026-06-08** | 100 papers scanned
 
-1. [Extrapolative Weight Averaging Reveals Correctness-Efficiency Frontiers in Code RL](https://arxiv.org/abs/2605.28751v1)
-2. [Agent Explorative Policy Optimization for Multimodal Agentic Reasoning](https://arxiv.org/abs/2605.28774v1)
-3. [From Model Scaling to System Scaling: Scaling the Harness in Agentic AI](https://arxiv.org/abs/2605.26112v1)
-4. [Automated Benchmark Auditing for AI Agents and Large Language Models](https://arxiv.org/abs/2605.26079v1)
-5. [STORM: Internalized Modeling for Spatial-Temporal Reasoning in Video-Language Models](https://arxiv.org/abs/2605.26014v1)
+1. [Agentic-J: An AI Agent for Biological Microscopy Image Analysis](https://arxiv.org/abs/2606.02080v1)
+2. [Topological texture analysis of microscopy images of dynamic casein gelation and its relation to rheological properties](https://arxiv.org/abs/2606.02048v1)
+3. [OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031v1)
+4. [Unveiling the Entropy Dynamics of Chain-of-Thought Reasoning](https://arxiv.org/abs/2606.02020v1)
+5. [LALE: Lightweight-Transformer Architecture for Land-Cover Estimation](https://arxiv.org/abs/2606.02092v1)
 
-**[View full digest and archives](archive/week-2026-06-01.md)**
+**[View full digest and archives](archive/week-2026-06-08.md)**
 
 <!-- DIGEST_END -->
 
