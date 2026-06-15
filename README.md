@@ -156,15 +156,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-06-08** | 100 papers scanned
+**Week of 2026-06-15** | 200 papers scanned
 
-1. [Agentic-J: An AI Agent for Biological Microscopy Image Analysis](https://arxiv.org/abs/2606.02080v1)
-2. [Topological texture analysis of microscopy images of dynamic casein gelation and its relation to rheological properties](https://arxiv.org/abs/2606.02048v1)
-3. [OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031v1)
-4. [Unveiling the Entropy Dynamics of Chain-of-Thought Reasoning](https://arxiv.org/abs/2606.02020v1)
-5. [LALE: Lightweight-Transformer Architecture for Land-Cover Estimation](https://arxiv.org/abs/2606.02092v1)
+1. [FASE: Fast Adaptive Semantic Entropy for Code Quality](https://arxiv.org/abs/2606.09800v1)
+2. [Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://arxiv.org/abs/2606.11176v1)
+3. [ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](https://arxiv.org/abs/2606.11150v1)
+4. [TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning](https://arxiv.org/abs/2606.11119v1)
+5. [VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation](https://arxiv.org/abs/2606.11079v1)
 
-**[View full digest and archives](archive/week-2026-06-08.md)**
+**[View full digest and archives](archive/week-2026-06-15.md)**
 
 <!-- DIGEST_END -->
 
