@@ -161,15 +161,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-06-15** | 200 papers scanned
+**Week of 2026-06-22** | 246 papers scanned
 
-1. [FASE: Fast Adaptive Semantic Entropy for Code Quality](https://arxiv.org/abs/2606.09800v1)
-2. [Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://arxiv.org/abs/2606.11176v1)
-3. [ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](https://arxiv.org/abs/2606.11150v1)
-4. [TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning](https://arxiv.org/abs/2606.11119v1)
-5. [VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation](https://arxiv.org/abs/2606.11079v1)
+1. [Human-on-the-Bridge: Scalable Evaluation for AI Agents](https://arxiv.org/abs/2606.16871v1)
+2. [Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)
+3. [Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification](https://arxiv.org/abs/2606.16987v1)
+4. [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](https://arxiv.org/abs/2606.18235v1)
+5. [Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/abs/2606.19341v1)
 
-**[View full digest and archives](archive/week-2026-06-15.md)**
+**[View full digest and archives](archive/week-2026-06-22.md)**
 
 <!-- DIGEST_END -->
 
