@@ -156,15 +156,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-06-22** | 246 papers scanned
+**Week of 2026-06-29** | 200 papers scanned
 
-1. [Human-on-the-Bridge: Scalable Evaluation for AI Agents](https://arxiv.org/abs/2606.16871v1)
-2. [Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)
-3. [Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification](https://arxiv.org/abs/2606.16987v1)
-4. [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](https://arxiv.org/abs/2606.18235v1)
-5. [Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/abs/2606.19341v1)
+1. [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](https://arxiv.org/abs/2606.24820v1)
+2. [Semantic Browsing: Controllable Diversity for Image Generation](https://arxiv.org/abs/2606.23679v1)
+3. [MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?](https://arxiv.org/abs/2606.23664v1)
+4. [MORL-A2C: Multi-Objective Reinforcement Learning Reranker for Optimizing Healthiness in MOPI-HFRS](https://arxiv.org/abs/2606.23603v1)
+5. [The Topology of Ill-Posed Questions: Persistent Homology for Detection and Steering in LLMs](https://arxiv.org/abs/2606.23590v1)
 
-**[View full digest and archives](archive/week-2026-06-22.md)**
+**[View full digest and archives](archive/week-2026-06-29.md)**
 
 <!-- DIGEST_END -->
 
