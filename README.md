@@ -161,15 +161,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-06-29** | 200 papers scanned
+**Week of 2026-07-06** | 250 papers scanned
 
-1. [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](https://arxiv.org/abs/2606.24820v1)
-2. [Semantic Browsing: Controllable Diversity for Image Generation](https://arxiv.org/abs/2606.23679v1)
-3. [MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?](https://arxiv.org/abs/2606.23664v1)
-4. [MORL-A2C: Multi-Objective Reinforcement Learning Reranker for Optimizing Healthiness in MOPI-HFRS](https://arxiv.org/abs/2606.23603v1)
-5. [The Topology of Ill-Posed Questions: Persistent Homology for Detection and Steering in LLMs](https://arxiv.org/abs/2606.23590v1)
+1. [Multi-Agentic System Leveraging Open-Source LLMs to Mitigate Disinformation Threats](https://arxiv.org/abs/2606.30259v1)
+2. [Rehearsed Multi-Agent Live Product Demonstrations with Real-Time Voice Question Answering](https://arxiv.org/abs/2606.30294v1)
+3. [TACO: Tool-Augmented Credit Optimization for Agentic Tool Use](https://arxiv.org/abs/2606.30251v1)
+4. [GROW$^2$: Grounding Which and Where for Robot Tool Use](https://arxiv.org/abs/2606.30632v1)
+5. [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://arxiv.org/abs/2606.30616v1)
 
-**[View full digest and archives](archive/week-2026-06-29.md)**
+**[View full digest and archives](archive/week-2026-07-06.md)**
 
 <!-- DIGEST_END -->
 
