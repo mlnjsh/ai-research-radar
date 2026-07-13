@@ -163,15 +163,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-07-06** | 250 papers scanned
+**Week of 2026-07-13** | 240 papers scanned
 
-1. [Multi-Agentic System Leveraging Open-Source LLMs to Mitigate Disinformation Threats](https://arxiv.org/abs/2606.30259v1)
-2. [Rehearsed Multi-Agent Live Product Demonstrations with Real-Time Voice Question Answering](https://arxiv.org/abs/2606.30294v1)
-3. [TACO: Tool-Augmented Credit Optimization for Agentic Tool Use](https://arxiv.org/abs/2606.30251v1)
-4. [GROW$^2$: Grounding Which and Where for Robot Tool Use](https://arxiv.org/abs/2606.30632v1)
-5. [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://arxiv.org/abs/2606.30616v1)
+1. [WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search](https://arxiv.org/abs/2607.08662v1)
+2. [GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369v1)
+3. [Multi-Agent Deep Reinforcement Learning for Multi Objective Battery Management in Dairy Farms](https://arxiv.org/abs/2607.06489v1)
+4. [Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](https://arxiv.org/abs/2607.07696v1)
+5. [Think Big, Search Small: Where Capacity Matters in Hierarchical Search Agents?](https://arxiv.org/abs/2607.07548v1)
 
-**[View full digest and archives](archive/week-2026-07-06.md)**
+**[View full digest and archives](archive/week-2026-07-13.md)**
 
 <!-- DIGEST_END -->
 
