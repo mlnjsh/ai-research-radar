@@ -157,15 +157,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-07-13** | 240 papers scanned
+**Week of 2026-07-20** | 260 papers scanned
 
-1. [WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search](https://arxiv.org/abs/2607.08662v1)
-2. [GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369v1)
-3. [Multi-Agent Deep Reinforcement Learning for Multi Objective Battery Management in Dairy Farms](https://arxiv.org/abs/2607.06489v1)
-4. [Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](https://arxiv.org/abs/2607.07696v1)
-5. [Think Big, Search Small: Where Capacity Matters in Hierarchical Search Agents?](https://arxiv.org/abs/2607.07548v1)
+1. [AI-accelerated End-to-End Framework for Rapid Professional Upskilling](https://arxiv.org/abs/2607.14044v1)
+2. [BrainPilot: Automating Brain Discovery with Agentic Research](https://arxiv.org/abs/2607.15079v1)
+3. [ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors](https://arxiv.org/abs/2607.15246v1)
+4. [Paradoxes of Game Theoretic Equilibria and Price of Anarchy](https://arxiv.org/abs/2607.11752v1)
+5. [When Local Monitors Miss Compositional Harm: Diagnosing Distributed Backdoors in Multi-Agent Systems](https://arxiv.org/abs/2607.11751v1)
 
-**[View full digest and archives](archive/week-2026-07-13.md)**
+**[View full digest and archives](archive/week-2026-07-20.md)**
 
 <!-- DIGEST_END -->
 
