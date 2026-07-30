@@ -55,43 +55,46 @@ No manual curation needed. GitHub Actions fetches, summarizes, and categorizes n
 
 | # | Paper | Authors | Category | Date |
 |:-:|:------|:--------|:--------:|:----:|
-| 1 | [Hierarchical Spatio-Temporal Transformer for Coherent Emergency Department Forecasting](https://arxiv.org/abs/2607.27106v1) | Filipa Lino, Bárbara Tavares, Carlos Santiago et al. | cs.LG | 2026-07-29 |
-| 2 | [BayesAME: Bayesian Active Model Evaluation](https://arxiv.org/abs/2607.27023v1) | Paula Cordero Encinar, Taylan Cemgil, Arnaud Doucet et al. | cs.LG | 2026-07-29 |
-| 3 | [What Can Latent World Models Know? Physical Parameter Identifiability in Multimodal Predictive Representations](https://arxiv.org/abs/2607.27017v1) | Kaizhen Tan, Xin Xu, Siru Tao et al. | cs.LG | 2026-07-29 |
-| 4 | [Detecting seizure onset and offset times using human intelligence: A critical-transitions-based approach](https://arxiv.org/abs/2607.27105v1) | Andrew Flynn, Cian McCafferty, Klaus Lehnertz et al. | math.DS | 2026-07-29 |
-| 5 | [Sky sphere representation in language models](https://arxiv.org/abs/2607.27092v1) | Aleksandr Berdnikov, Yevgeny Liokumovich | cs.LG | 2026-07-29 |
-| 6 | [Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents](https://arxiv.org/abs/2607.27083v1) | Yicheng Feng, Yan Zhang, Yan Cheng et al. | cs.LG | 2026-07-29 |
-| 7 | [Field Codes for Distributed Coupling Samplers and Certified Empirical Transport](https://arxiv.org/abs/2607.27078v1) | Hung Mai, Hai Nguyen, Luong Doan et al. | cs.CC | 2026-07-29 |
-| 8 | [Equilibrium Training of Energy-Based Models with Parallel Trajectory Tempering](https://arxiv.org/abs/2607.27077v1) | Nicolas Béreux, Aurélien Decelle, Cyril Furtlehner et al. | cs.LG | 2026-07-29 |
-| 9 | [Single-Beat Cuffless Blood Pressure Estimation Using Ear-PPG and ECG with a Lightweight Hybrid Learning Framework](https://arxiv.org/abs/2607.27076v1) | Kindeep K. Dhatt, Tengyue Wu, Hanbang Hua et al. | cs.LG | 2026-07-29 |
-| 10 | [Parameter-Free Dynamic Regret for Online Convex Optimization under Heavy-Tailed Noise](https://arxiv.org/abs/2607.27073v1) | Vaneet Aggarwal | cs.LG | 2026-07-29 |
-| 11 | [PIKS: Universal Physics-Informed Kernel Methods](https://arxiv.org/abs/2607.27062v1) | Joachim Bona-Pellissier, Giacomo Meanti, Matteo Santacesaria et al. | stat.ML | 2026-07-29 |
-| 12 | [CoCaRS: Correlation Calibration-Based Redundancy Suppression for Heterogeneous Knowledge Distillation](https://arxiv.org/abs/2607.27054v1) | Fengming Yu, Haiwei Pan, Kejia Zhang et al. | cs.LG | 2026-07-29 |
-| 13 | [GPTQ-2D: Cubic-Time Two-Sided Adaptive Rounding](https://arxiv.org/abs/2607.27042v1) | Jiale Chen, Torsten Hoefler, Dan Alistarh | cs.DS | 2026-07-29 |
-| 14 | [Lottery Tickets Are Not Deployment Tickets](https://arxiv.org/abs/2607.27031v1) | Bum Jun Kim | cs.LG | 2026-07-29 |
-| 15 | [HoF-Bench: Rediscovering Real AI-Discovered CVEs Without Frontier Models](https://arxiv.org/abs/2607.27030v1) | Petr Simecek, Elnaz Babayeva, Jiri Balhar et al. | cs.CR | 2026-07-29 |
+| 1 | [Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?](https://arxiv.org/abs/2607.27203v1) | Perry Dong, Ron Polonsky, Dorsa Sadigh et al. | cs.LG | 2026-07-29 |
+| 2 | [From Classification to Regression: Using a Fruitfly to Solve Equations](https://arxiv.org/abs/2607.27196v1) | Shady E. Ahmed, Panos Stinis | cs.LG | 2026-07-29 |
+| 3 | [Skillful forecasting of offshore winds from satellite scatterometer constellations](https://arxiv.org/abs/2607.27152v1) | Francesco Pinto, Luca Lanzilao, Paco Lopez Dekker et al. | cs.LG | 2026-07-29 |
+| 4 | [Cost-Sensitive Conformal Prediction and Human-in-the-Loop Abstention for Imbalanced High-Stakes Decision Support: A Multi-Domain Benchmark](https://arxiv.org/abs/2607.27143v1) | Manpreet Singh, Akshatha Srikantha, Shyamal Lakhanpal | cs.LG | 2026-07-29 |
+| 5 | [Hierarchical Spatio-Temporal Transformer for Coherent Emergency Department Forecasting](https://arxiv.org/abs/2607.27106v1) | Filipa Lino, Bárbara Tavares, Carlos Santiago et al. | cs.LG | 2026-07-29 |
+| 6 | [Can AI agents conduct open-ended AI research? Early evidence from two case studies](https://arxiv.org/abs/2607.27191v1) | Peter Kirgis, Sayash Kapoor, Andrew Schwartz et al. | cs.AI | 2026-07-29 |
+| 7 | [Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes](https://arxiv.org/abs/2607.27188v1) | Lennon J. Shikhman, Michael Galarnyk, Aadi Dash et al. | cs.LG | 2026-07-29 |
+| 8 | [When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems](https://arxiv.org/abs/2607.27169v1) | Quang Bui, Sparsh Roy, Akash Gundimeda et al. | cs.LG | 2026-07-29 |
+| 9 | [Investigating reservoir computing for branch predictionin pipelined processors using emerging CMOS memristor devices](https://arxiv.org/abs/2607.27140v1) | Harvey Samuel George Johnson, Sendy Phang | cs.AR | 2026-07-29 |
+| 10 | [Minimal Markovization via Stable Quotients in Holonomy-Cover Decision Processes](https://arxiv.org/abs/2607.27132v1) | Zuyuan Zhang, Yongshan Chen, Mahdi Imani et al. | cs.LG | 2026-07-29 |
+| 11 | [Voronoi Histograms for Adaptive Vectorization of Expected Persistence Diagrams](https://arxiv.org/abs/2607.27126v1) | Kaifeng Zhang, Kai Ming Ting | cs.LG | 2026-07-29 |
+| 12 | [Detecting seizure onset and offset times using human intelligence: A critical-transitions-based approach](https://arxiv.org/abs/2607.27105v1) | Andrew Flynn, Cian McCafferty, Klaus Lehnertz et al. | math.DS | 2026-07-29 |
+| 13 | [Sky sphere representation in language models](https://arxiv.org/abs/2607.27092v1) | Aleksandr Berdnikov, Yevgeny Liokumovich | cs.LG | 2026-07-29 |
+| 14 | [Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents](https://arxiv.org/abs/2607.27083v1) | Yicheng Feng, Yan Zhang, Yan Cheng et al. | cs.LG | 2026-07-29 |
+| 15 | [Field Codes for Distributed Coupling Samplers and Certified Empirical Transport](https://arxiv.org/abs/2607.27078v1) | Hung Mai, Hai Nguyen, Luong Doan et al. | cs.CC | 2026-07-29 |
 
 ### 📐 Topological Data Analysis
 
 | # | Paper | Authors | Category | Date |
 |:-:|:------|:--------|:--------:|:----:|
-| 1 | *No new papers in this category* | --- | --- | --- |
+| 1 | [The spectrum of strict units of topological modular forms](https://arxiv.org/abs/2607.27124v1) | Zhenpeng Li, Kiran Luecke | math.AT | 2026-07-29 |
 
 ### 🤖 LLMs & Agents
 
 | # | Paper | Authors | Category | Date |
 |:-:|:------|:--------|:--------:|:----:|
-| 1 | [MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](https://arxiv.org/abs/2607.27109v1) | Weijie Wu, Junbo Li, Lin Li et al. | cs.SD | 2026-07-29 |
-| 2 | [Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data](https://arxiv.org/abs/2607.27056v1) | Lingyang Zeng, Guangze Chen, Kaichen Yu et al. | cs.AI | 2026-07-29 |
-| 3 | [InferScale: GPU-Native KV Injection for Personalized LLM Serving](https://arxiv.org/abs/2607.27090v1) | Peter Li, Prashant Pandey | cs.DC | 2026-07-29 |
-| 4 | [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](https://arxiv.org/abs/2607.27081v1) | Yongjian Guo, Wanlun Ma, Lingyu Shen et al. | cs.AI | 2026-07-29 |
-| 5 | [MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair](https://arxiv.org/abs/2607.27080v1) | Xuanze Chen, Xukang Xie, Wentao Fu et al. | cs.CR | 2026-07-29 |
-| 6 | [Evaluating Regional Bias in LLMs From Abstract Stereotype to Concrete Social Decision-Making](https://arxiv.org/abs/2607.27022v1) | Jiayuan Di, Haoyi Yang, Yufei Luo et al. | cs.CL | 2026-07-29 |
-| 7 | [AgentSnare: Learning to Delay, Divert, and Defuse Autonomous Penetration Agents](https://arxiv.org/abs/2607.26998v1) | Ruoyu Wang, Heng Zhao, Renjie Wu et al. | cs.CR | 2026-07-29 |
-| 8 | [OptimismBench: Forecasting Bias and the Alignment Effect in Language Model Judgment](https://arxiv.org/abs/2607.26981v1) | Seonglae Cho, Adriano Koshiyama | cs.CL | 2026-07-29 |
-| 9 | [TREK: A Travel Reasoning and Evaluation Kit for LLM Agents in Complex Trip Planning](https://arxiv.org/abs/2607.26977v1) | Jinhu Qi, Wentao Zhang, Siu Man Ng et al. | cs.CL | 2026-07-29 |
-| 10 | [Generation or Judgement? A Paradigm Perspective on LLM-Based Emotion-Cause Pair Extraction in Conversation](https://arxiv.org/abs/2607.26967v1) | Weijie Feng, Hongchuang Wang, Binbin Liu et al. | cs.CL | 2026-07-29 |
-| 11 | [Credit Cards, Confusion, Computation, and Consequences: What Can We Uncover About Language Model Reasoning?](https://arxiv.org/abs/2607.26952v1) | Arnav Hiray, Agam Shah, Caleb Lu et al. | cs.CL | 2026-07-29 |
+| 1 | [DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search](https://arxiv.org/abs/2607.27178v1) | Raphaël Sourty, Antoine Chaffin, Paulo Roberto Moura Junior et al. | cs.CL | 2026-07-29 |
+| 2 | [Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork](https://arxiv.org/abs/2607.27177v1) | Peter Tisnikar, Maja Swieczkowska, Benteng Ma et al. | cs.AI | 2026-07-29 |
+| 3 | [SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch](https://arxiv.org/abs/2607.27167v1) | Yihao Chen, Shi Chang, Feng Lin et al. | cs.SE | 2026-07-29 |
+| 4 | [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](https://arxiv.org/abs/2607.27155v1) | Jingbo Zhou, Yusai Zhao, Qi Bao et al. | cs.AI | 2026-07-29 |
+| 5 | [MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis](https://arxiv.org/abs/2607.27146v1) | Yihao Chen, Shi Chang, Khaled Chawa et al. | cs.SE | 2026-07-29 |
+| 6 | [AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching](https://arxiv.org/abs/2607.27130v1) | Yiping Song, Jiaoyan Chen, Renate Schmidt et al. | cs.AI | 2026-07-29 |
+| 7 | [MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](https://arxiv.org/abs/2607.27109v1) | Weijie Wu, Junbo Li, Lin Li et al. | cs.SD | 2026-07-29 |
+| 8 | [Mental World Modeling](https://arxiv.org/abs/2607.27201v1) | Hao Fei, Yiran Zhao | cs.CL | 2026-07-29 |
+| 9 | [APEX-Accounting](https://arxiv.org/abs/2607.27189v1) | Julien Benchek, Austin Bennett, Jasmin Kern et al. | cs.CL | 2026-07-29 |
+| 10 | [Pangram 4 Technical Report](https://arxiv.org/abs/2607.27183v1) | Ben Glickenhaus, Katherine Thai, Jenna Russell et al. | cs.CL | 2026-07-29 |
+| 11 | [Linguistic Monoculture in LLM-Assisted Language Use](https://arxiv.org/abs/2607.27134v1) | Suhas Thejaswi, Juhi Kulshreshta, Lutz Oettershagen | cs.AI | 2026-07-29 |
+| 12 | [InferScale: GPU-Native KV Injection for Personalized LLM Serving](https://arxiv.org/abs/2607.27090v1) | Peter Li, Prashant Pandey | cs.DC | 2026-07-29 |
+| 13 | [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](https://arxiv.org/abs/2607.27081v1) | Yongjian Guo, Wanlun Ma, Lingyu Shen et al. | cs.AI | 2026-07-29 |
+| 14 | [MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair](https://arxiv.org/abs/2607.27080v1) | Xuanze Chen, Xukang Xie, Wentao Fu et al. | cs.CR | 2026-07-29 |
 
 ### ⚙️ Optimization & Engineering
 
@@ -103,26 +106,28 @@ No manual curation needed. GitHub Actions fetches, summarizes, and categorizes n
 
 | # | Paper | Authors | Category | Date |
 |:-:|:------|:--------|:--------:|:----:|
-| 1 | [Learning from the Future: Privileged Self-Distillation for Sequential Recommendation](https://arxiv.org/abs/2607.27055v1) | Jiakai Tang, Yang Zhang, See-Kiong Ng et al. | cs.IR | 2026-07-29 |
-| 2 | [IMFuse: Instance-Aware Multi-Layer Fusion for LLM-Enhanced Sequential Recommendation](https://arxiv.org/abs/2607.27002v1) | Yuheng Zheng, Yu Cui, Bin Wu et al. | cs.IR | 2026-07-29 |
+| 1 | [Improving Item Discoverability in e-Commerce Search via Related Intent Generation](https://arxiv.org/abs/2607.27172v1) | Ji Xin, Xiao Xiao, Ishan Bhatt et al. | cs.IR | 2026-07-29 |
+| 2 | [The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making](https://arxiv.org/abs/2607.27179v1) | Nia Nixon, Jaeyoon Choi, Pedro Martins De Bastos et al. | cs.HC | 2026-07-29 |
+| 3 | [KAMR: Grounding Generation via Knowledge-Aligned Multi-hop Retrieval](https://arxiv.org/abs/2607.27136v1) | Xiaochen Wang, Yuan Zhong, Haoyu Wang et al. | cs.IR | 2026-07-29 |
 
 ### 👁️ Computer Vision
 
 | # | Paper | Authors | Category | Date |
 |:-:|:------|:--------|:--------:|:----:|
-| 1 | [FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring](https://arxiv.org/abs/2607.27110v1) | Jiatong Li, Leo Liang, Linghe Kong et al. | cs.CV | 2026-07-29 |
-| 2 | [SciFigQual-Bench: A Benchmark for Scientific Figure Quality Assessment with Full-Manuscript Context](https://arxiv.org/abs/2607.27084v1) | Zihan Deng, Chuanzhi Xu, Huiqi Liang et al. | cs.CV | 2026-07-29 |
-| 3 | [SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence](https://arxiv.org/abs/2607.27066v1) | Chuanzhi Xu, Zihan Deng, Huiqi Liang et al. | cs.CV | 2026-07-29 |
-| 4 | [InkShield: Writing Style Protection Against Unauthorized Handwriting Mimicry](https://arxiv.org/abs/2607.26976v1) | Jian Xiong, Wenbo Jiang, Zihan Wang et al. | cs.CR | 2026-07-29 |
-| 5 | [Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection](https://arxiv.org/abs/2607.27113v1) | Hao Tan, Jun Lan, Zichang Tan et al. | cs.CV | 2026-07-29 |
-| 6 | [Step-Attention Refinement of DINOv3 Features for Efficient Anterior Eye Segmentation](https://arxiv.org/abs/2607.27087v1) | Philippe Baumstimler, Jean-Mathieu Gagnon, Sébastien Gagné et al. | cs.CV | 2026-07-29 |
-| 7 | [Visual Credit Audit for Multimodal Spatial Reasoning](https://arxiv.org/abs/2607.27069v1) | Feixiang Liu, Qiang Qiu, Lanbo Sun et al. | cs.CV | 2026-07-29 |
-| 8 | [ScratchSim: A Procedural Synthetic Data Pipeline for Surface Scratch Detection](https://arxiv.org/abs/2607.27065v1) | Paul Julius Kühn, Saptarshi Neil Sinha, Tiago Kleist et al. | cs.CV | 2026-07-29 |
-| 9 | [Object Detection for Autonomous Driving in Chinese Rural Scenes: An Experimental Study on Real-Synthetic Data Mixing and Model Evaluation](https://arxiv.org/abs/2607.27058v1) | Danning Zhu, Ziyan Lin, Jing Wu | cs.CV | 2026-07-29 |
-| 10 | [Mitigating Compounding Error via Video Representation Regularization](https://arxiv.org/abs/2607.27036v1) | Taiye Chen, Qi Zhang, Yisen Wang | cs.CV | 2026-07-29 |
-| 11 | [SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception](https://arxiv.org/abs/2607.26985v1) | Gabe Everett, Brice Gunter, Ryan Vander Stelt et al. | cs.RO | 2026-07-29 |
-| 12 | [Robust RPC Bundle Adjustment for Multi-Date Satellite Imagery with Season-Invariant Correspondences](https://arxiv.org/abs/2607.26973v1) | Roger Marí, Elías Masquil, Xavier Bou et al. | cs.CV | 2026-07-29 |
-| 13 | [Progressive Multimodal Alignment for Continual Instruction Tuning](https://arxiv.org/abs/2607.26947v1) | Duzhen Zhang, Yahan Yu, Qiaoyi Su et al. | cs.CV | 2026-07-29 |
+| 1 | [TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM](https://arxiv.org/abs/2607.27205v1) | Hengyi Xie, Chenfei Yao, Xianjin Wu et al. | cs.CV | 2026-07-29 |
+| 2 | [VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion](https://arxiv.org/abs/2607.27194v1) | Zador Pataki, Paul-Edouard Sarlin, Marc Pollefeys | cs.CV | 2026-07-29 |
+| 3 | [SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI](https://arxiv.org/abs/2607.27139v1) | Álvaro Díaz-Laureano, Roger Marí, Elías Masquil et al. | cs.CV | 2026-07-29 |
+| 4 | [FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring](https://arxiv.org/abs/2607.27110v1) | Jiatong Li, Leo Liang, Linghe Kong et al. | cs.CV | 2026-07-29 |
+| 5 | [SciFigQual-Bench: A Benchmark for Scientific Figure Quality Assessment with Full-Manuscript Context](https://arxiv.org/abs/2607.27084v1) | Zihan Deng, Chuanzhi Xu, Huiqi Liang et al. | cs.CV | 2026-07-29 |
+| 6 | [SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence](https://arxiv.org/abs/2607.27066v1) | Chuanzhi Xu, Zihan Deng, Huiqi Liang et al. | cs.CV | 2026-07-29 |
+| 7 | [HumanCLAW: Can Vision-Language Models Act Through a Body?](https://arxiv.org/abs/2607.27180v1) | Siyao Li, Jiawei Gu, Shuai Liu et al. | cs.CV | 2026-07-29 |
+| 8 | [Anatomy Contextualized Adaption of CT Foundation Models](https://arxiv.org/abs/2607.27154v1) | Roshan Kenia, Stephanie L McNamara, William Lotter | cs.CV | 2026-07-29 |
+| 9 | [Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications](https://arxiv.org/abs/2607.27145v1) | Piyush Jain, Kousik Dasgupta, Rajarshi Roy et al. | cs.CV | 2026-07-29 |
+| 10 | [DLAM: Distributional Latent Actions with Temporal Constraints](https://arxiv.org/abs/2607.27138v1) | Zuojin Tang, Feifan Luo, Haoyun Liu et al. | cs.RO | 2026-07-29 |
+| 11 | [Towards Grounded GI Endoscopy VQA via Multi-Task Learning on Small VLMs](https://arxiv.org/abs/2607.27122v1) | Itbaan Safwan, Ramail Khan, Muhammad Annas Shaikh et al. | cs.CV | 2026-07-29 |
+| 12 | [Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection](https://arxiv.org/abs/2607.27113v1) | Hao Tan, Jun Lan, Zichang Tan et al. | cs.CV | 2026-07-29 |
+| 13 | [Step-Attention Refinement of DINOv3 Features for Efficient Anterior Eye Segmentation](https://arxiv.org/abs/2607.27087v1) | Philippe Baumstimler, Jean-Mathieu Gagnon, Sébastien Gagné et al. | cs.CV | 2026-07-29 |
+| 14 | [Visual Credit Audit for Multimodal Spatial Reasoning](https://arxiv.org/abs/2607.27069v1) | Feixiang Liu, Qiang Qiu, Lanbo Sun et al. | cs.CV | 2026-07-29 |
 
 
 <!-- PAPERS_END -->
@@ -139,7 +144,8 @@ No manual curation needed. GitHub Actions fetches, summarizes, and categorizes n
 TRENDING TOPICS (Last 24 Hours)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ███████████ RAG (11)
+  █████████████████ RAG (17)
+  ██ multi-agent (2)
 
   Total papers scanned: 50
 ```
@@ -308,10 +314,10 @@ ai-research-radar/
 <!-- STATS_START -->
 
 ```
-Papers Scanned:     9551
+Papers Scanned:     9601
 Categories:         6
-Unique Authors:     255
-Trending Topics:    1
+Unique Authors:     283
+Trending Topics:    2
 Weekly Digests:     (auto-generated Mondays)
 ```
 
