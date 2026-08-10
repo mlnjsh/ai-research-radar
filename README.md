@@ -160,15 +160,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-08-03** | 282 papers scanned
+**Week of 2026-08-10** | 250 papers scanned
 
-1. [A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility](https://arxiv.org/abs/2607.24663v1)
-2. [FaithEyes: Towards Faithful Tool Use via Multi-Agent Process-Image Verification](https://arxiv.org/abs/2607.28225v1)
-3. [Beacon: Knowing When and How to Perform Agentic Visual Reasoning](https://arxiv.org/abs/2607.28595v1)
-4. [MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems](https://arxiv.org/abs/2607.28527v1)
-5. [ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](https://arxiv.org/abs/2607.24743v1)
+1. [An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures](https://arxiv.org/abs/2608.03735v1)
+2. [The Condition-Number Barrier in Sparse Least Squares](https://arxiv.org/abs/2608.02588v1)
+3. [A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI](https://arxiv.org/abs/2608.02553v1)
+4. [XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2608.03666v1)
+5. [OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling](https://arxiv.org/abs/2608.05141v1)
 
-**[View full digest and archives](archive/week-2026-08-03.md)**
+**[View full digest and archives](archive/week-2026-08-10.md)**
 
 <!-- DIGEST_END -->
 
