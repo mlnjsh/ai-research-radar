@@ -161,15 +161,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-08-10** | 250 papers scanned
+**Week of 2026-08-17** | 200 papers scanned
 
-1. [An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures](https://arxiv.org/abs/2608.03735v1)
-2. [The Condition-Number Barrier in Sparse Least Squares](https://arxiv.org/abs/2608.02588v1)
-3. [A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI](https://arxiv.org/abs/2608.02553v1)
-4. [XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2608.03666v1)
-5. [OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling](https://arxiv.org/abs/2608.05141v1)
+1. [Stealing Reasoning Traces from Proprietary LLM APIs](https://arxiv.org/abs/2608.09867v1)
+2. [Agentic Auto-Research is Fuzz Testing](https://arxiv.org/abs/2608.09855v1)
+3. [From Diagnosis to Correction: Benchmarking and Improving Real-World Table Parsing](https://arxiv.org/abs/2608.09842v1)
+4. [VICBench: A Multi-Language Benchmark for Code Vulnerability Detection](https://arxiv.org/abs/2608.12246v1)
+5. [Machine Learning-Based Cyber Defense for Cloud Infrastructure: An Adaptive Deep Q-Network Architecture for Intelligent Intrusion Detection and Automated Threat Mitigation](https://arxiv.org/abs/2608.12190v1)
 
-**[View full digest and archives](archive/week-2026-08-10.md)**
+**[View full digest and archives](archive/week-2026-08-17.md)**
 
 <!-- DIGEST_END -->
 
