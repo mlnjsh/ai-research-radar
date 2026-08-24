@@ -161,15 +161,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-08-17** | 200 papers scanned
+**Week of 2026-08-24** | 200 papers scanned
 
-1. [Stealing Reasoning Traces from Proprietary LLM APIs](https://arxiv.org/abs/2608.09867v1)
-2. [Agentic Auto-Research is Fuzz Testing](https://arxiv.org/abs/2608.09855v1)
-3. [From Diagnosis to Correction: Benchmarking and Improving Real-World Table Parsing](https://arxiv.org/abs/2608.09842v1)
-4. [VICBench: A Multi-Language Benchmark for Code Vulnerability Detection](https://arxiv.org/abs/2608.12246v1)
-5. [Machine Learning-Based Cyber Defense for Cloud Infrastructure: An Adaptive Deep Q-Network Architecture for Intelligent Intrusion Detection and Automated Threat Mitigation](https://arxiv.org/abs/2608.12190v1)
+1. [aDSL: Agentic 3D Creation via Joint Agent-Program Design](https://arxiv.org/abs/2608.17975v1)
+2. [SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197v1)
+3. [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775v1)
+4. [Deep Academic Survey: Stateful Agentic Closed-Loop Paradigm for Academic Survey Automation](https://arxiv.org/abs/2608.18034v1)
+5. [Multi-Agent Off-Policy Deep Reinforcement Learning for Smart Campus Coverage](https://arxiv.org/abs/2608.19049v1)
 
-**[View full digest and archives](archive/week-2026-08-17.md)**
+**[View full digest and archives](archive/week-2026-08-24.md)**
 
 <!-- DIGEST_END -->
 
