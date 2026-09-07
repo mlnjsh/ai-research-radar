@@ -161,15 +161,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-08-31** | 208 papers scanned
+**Week of 2026-09-07** | 340 papers scanned
 
-1. [AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs](https://arxiv.org/abs/2608.26004v1)
-2. [GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL](https://arxiv.org/abs/2608.27142v1)
-3. [MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters](https://arxiv.org/abs/2608.23473v1)
-4. [CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](https://arxiv.org/abs/2608.24794v1)
-5. [EMFE: A lightweight, explainable machine learning framework for malaria cell classification](https://arxiv.org/abs/2608.24793v1)
+1. [Bioinfoysis Technical Report](https://arxiv.org/abs/2609.03871v1)
+2. [Season-Aware Hybrid Convolutional-Transformer for Antarctic Sea Ice Concentration Forecasting](https://arxiv.org/abs/2608.30654v1)
+3. [InsightToast: Proactive Information Retrieval & Glanceable Visualization in the Side Channel of Data-Rich Meetings](https://arxiv.org/abs/2608.31115v1)
+4. [Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data](https://arxiv.org/abs/2608.31082v1)
+5. [Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization](https://arxiv.org/abs/2608.31077v1)
 
-**[View full digest and archives](archive/week-2026-08-31.md)**
+**[View full digest and archives](archive/week-2026-09-07.md)**
 
 <!-- DIGEST_END -->
 
