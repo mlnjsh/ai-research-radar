@@ -154,15 +154,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-09-07** | 340 papers scanned
+**Week of 2026-09-14** | 150 papers scanned
 
-1. [Bioinfoysis Technical Report](https://arxiv.org/abs/2609.03871v1)
-2. [Season-Aware Hybrid Convolutional-Transformer for Antarctic Sea Ice Concentration Forecasting](https://arxiv.org/abs/2608.30654v1)
-3. [InsightToast: Proactive Information Retrieval & Glanceable Visualization in the Side Channel of Data-Rich Meetings](https://arxiv.org/abs/2608.31115v1)
-4. [Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data](https://arxiv.org/abs/2608.31082v1)
-5. [Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization](https://arxiv.org/abs/2608.31077v1)
+1. [Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs](https://arxiv.org/abs/2609.10430v1)
+2. [ReCite: Agentic Reasoning for Faithful Citation](https://arxiv.org/abs/2609.09156v1)
+3. [SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators](https://arxiv.org/abs/2609.09155v1)
+4. [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153v1)
+5. [Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](https://arxiv.org/abs/2609.09134v1)
 
-**[View full digest and archives](archive/week-2026-09-07.md)**
+**[View full digest and archives](archive/week-2026-09-14.md)**
 
 <!-- DIGEST_END -->
 
