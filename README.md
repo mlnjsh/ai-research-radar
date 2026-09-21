@@ -152,15 +152,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-09-14** | 150 papers scanned
+**Week of 2026-09-21** | 50 papers scanned
 
-1. [Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs](https://arxiv.org/abs/2609.10430v1)
-2. [ReCite: Agentic Reasoning for Faithful Citation](https://arxiv.org/abs/2609.09156v1)
-3. [SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators](https://arxiv.org/abs/2609.09155v1)
-4. [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153v1)
-5. [Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](https://arxiv.org/abs/2609.09134v1)
+1. [Agentic Societies Need a Social Harness](https://arxiv.org/abs/2609.17527v1)
+2. [When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control](https://arxiv.org/abs/2609.17516v1)
+3. [ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation](https://arxiv.org/abs/2609.17499v1)
+4. [Verifiable Social Reasoning for LLM Assistants](https://arxiv.org/abs/2609.17496v1)
+5. [Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback](https://arxiv.org/abs/2609.17474v1)
 
-**[View full digest and archives](archive/week-2026-09-14.md)**
+**[View full digest and archives](archive/week-2026-09-21.md)**
 
 <!-- DIGEST_END -->
 
