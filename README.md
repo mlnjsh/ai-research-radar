@@ -126,7 +126,7 @@ No manual curation needed. GitHub Actions fetches, summarizes, and categorizes n
 | 11 | [Hard Vision, Easy Vision: What GPT-6 Astra Reveals Across Computer Vision](https://arxiv.org/abs/2609.35718v1) | Hanoona Rasheed, Mohammed Irfan Kurpath, Bin Ren et al. | cs.CV | 2026-09-28 |
 | 12 | [Lagrangian--Hamiltonian Flows for Video Prediction and Image Generation: A Symplectic Perspective](https://arxiv.org/abs/2609.35710v1) | Jiawei Hu | cs.CV | 2026-09-28 |
 | 13 | [Mind the RefGAP: Correcting Reference Attention in Diffusion-Based Visual Editing](https://arxiv.org/abs/2609.35708v1) | Yanan Wang, Shengcai Liao, Guangyi Liu et al. | cs.CV | 2026-09-28 |
-| 14 | [DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time](https://arxiv.org/abs/2609.35704v1) | Ma Ziqi, Chen Hongqiao, Gkioxari Georgia | cs.CV | 2026-09-28 |
+| 14 | [DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time](https://arxiv.org/abs/2609.35704v1) | Ziqi Ma, Hongqiao Chen, Georgia Gkioxari | cs.CV | 2026-09-28 |
 | 15 | [FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching](https://arxiv.org/abs/2609.35673v1) | Thanh-Long V. Le, Steven Walton, Seunghyun Yoon et al. | cs.CV | 2026-09-28 |
 
 
@@ -316,7 +316,7 @@ ai-research-radar/
 <!-- STATS_START -->
 
 ```
-Papers Scanned:     12324
+Papers Scanned:     12374
 Categories:         6
 Unique Authors:     318
 Trending Topics:    4
