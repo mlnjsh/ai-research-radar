@@ -160,15 +160,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-09-21** | 50 papers scanned
+**Week of 2026-10-05** | 200 papers scanned
 
-1. [Agentic Societies Need a Social Harness](https://arxiv.org/abs/2609.17527v1)
-2. [When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control](https://arxiv.org/abs/2609.17516v1)
-3. [ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation](https://arxiv.org/abs/2609.17499v1)
-4. [Verifiable Social Reasoning for LLM Assistants](https://arxiv.org/abs/2609.17496v1)
-5. [Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback](https://arxiv.org/abs/2609.17474v1)
+1. [Cross-Rollout Bellman Closure for Long-Horizon Agentic Reinforcement Learning](https://arxiv.org/abs/2609.35082v1)
+2. [OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning](https://arxiv.org/abs/2610.02181v1)
+3. [Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation](https://arxiv.org/abs/2609.35177v1)
+4. [CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion](https://arxiv.org/abs/2609.35139v1)
+5. [GraphHCA: Closed-Form Hindsight Credit Assignment for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.35084v1)
 
-**[View full digest and archives](archive/week-2026-09-21.md)**
+**[View full digest and archives](archive/week-2026-10-05.md)**
 
 <!-- DIGEST_END -->
 
