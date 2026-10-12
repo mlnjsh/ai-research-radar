@@ -154,15 +154,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-10-05** | 200 papers scanned
+**Week of 2026-10-12** | 200 papers scanned
 
-1. [Cross-Rollout Bellman Closure for Long-Horizon Agentic Reinforcement Learning](https://arxiv.org/abs/2609.35082v1)
-2. [OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning](https://arxiv.org/abs/2610.02181v1)
-3. [Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation](https://arxiv.org/abs/2609.35177v1)
-4. [CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion](https://arxiv.org/abs/2609.35139v1)
-5. [GraphHCA: Closed-Form Hindsight Credit Assignment for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.35084v1)
+1. [RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing](https://arxiv.org/abs/2610.10507v1)
+2. [Towards Looped Models Done Right, Part II: Rethinking at Fixed Points](https://arxiv.org/abs/2610.06833v1)
+3. [Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification](https://arxiv.org/abs/2610.06790v1)
+4. [T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search](https://arxiv.org/abs/2610.06782v1)
+5. [Balancing Memory Pathways: Analyzing and Improving Memory Utilization in Hybrid LMs](https://arxiv.org/abs/2610.06750v1)
 
-**[View full digest and archives](archive/week-2026-10-05.md)**
+**[View full digest and archives](archive/week-2026-10-12.md)**
 
 <!-- DIGEST_END -->
 
