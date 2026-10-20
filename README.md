@@ -316,7 +316,7 @@ ai-research-radar/
 <!-- STATS_START -->
 
 ```
-Papers Scanned:     13274
+Papers Scanned:     13324
 Categories:         6
 Unique Authors:     378
 Trending Topics:    4
