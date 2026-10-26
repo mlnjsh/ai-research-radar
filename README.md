@@ -159,15 +159,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-10-19** | 150 papers scanned
+**Week of 2026-10-26** | 200 papers scanned
 
-1. [SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection](https://arxiv.org/abs/2610.18807v1)
-2. [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792v1)
-3. [BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems](https://arxiv.org/abs/2610.18780v1)
-4. [PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition](https://arxiv.org/abs/2610.20560v1)
-5. [The Wealth of Agents: Scaling Agentic AI Across Developers](https://arxiv.org/abs/2610.20518v1)
+1. [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](https://arxiv.org/abs/2610.26860v1)
+2. [CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting](https://arxiv.org/abs/2610.26852v1)
+3. [Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning](https://arxiv.org/abs/2610.26851v1)
+4. [RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development](https://arxiv.org/abs/2610.26826v1)
+5. [MemT-1.0: Towards Memory-Native Evolution](https://arxiv.org/abs/2610.26825v1)
 
-**[View full digest and archives](archive/week-2026-10-19.md)**
+**[View full digest and archives](archive/week-2026-10-26.md)**
 
 <!-- DIGEST_END -->
 
