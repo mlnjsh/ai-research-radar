@@ -148,7 +148,7 @@ TRENDING TOPICS (Last 24 Hours)
   █ support vector machine (1)
   █ multi-agent (1)
 
-  Total papers scanned: 50
+  Total papers scanned: 49
 ```
 
 <!-- TRENDS_END -->
@@ -315,9 +315,9 @@ ai-research-radar/
 <!-- STATS_START -->
 
 ```
-Papers Scanned:     13990
+Papers Scanned:     14039
 Categories:         6
-Unique Authors:     252
+Unique Authors:     250
 Trending Topics:    4
 Weekly Digests:     (auto-generated Mondays)
 ```
