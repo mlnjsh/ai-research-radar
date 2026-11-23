@@ -160,15 +160,15 @@ TRENDING TOPICS (Last 24 Hours)
 
 <!-- DIGEST_START -->
 
-**Week of 2026-11-16** | 150 papers scanned
+**Week of 2026-11-23** | 200 papers scanned
 
-1. [AgentSSL: Can MLE Agents Leverage Unlabeled Data?](https://arxiv.org/abs/2611.17323v1)
-2. [HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios](https://arxiv.org/abs/2611.14059v1)
-3. [Structured Confidence Perturbation via Fisher Geometry for Adversarial Training](https://arxiv.org/abs/2611.14046v1)
-4. [Thermodynamics of words](https://arxiv.org/abs/2611.14039v1)
-5. [HiPFuse: Real-Time LiDAR Semantic Segmentation for Robotic Perception on Edge Devices](https://arxiv.org/abs/2611.14025v1)
+1. [Coda-DaVinci: Reimagining Video Generation with Code2Video](https://arxiv.org/abs/2611.26595v1)
+2. [Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models](https://arxiv.org/abs/2611.26531v1)
+3. [GameRealm: Grounding Visual Learning in Interactive Games](https://arxiv.org/abs/2611.23140v1)
+4. [Dynamic Task Allocation with Dialogue](https://arxiv.org/abs/2611.23119v1)
+5. [Kaer: Security-Aware Replanning for Multi-Agent Systems](https://arxiv.org/abs/2611.24839v1)
 
-**[View full digest and archives](archive/week-2026-11-16.md)**
+**[View full digest and archives](archive/week-2026-11-23.md)**
 
 <!-- DIGEST_END -->
 
